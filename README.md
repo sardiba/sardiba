@@ -2,7 +2,7 @@
 
 ## Persönliche Daten
 HALLO! 👋🏽
-Mein Name ist Sarah Diba Anissa. Ich bin in Jakarta, Indonesien geboren und in Bogor, Indonesien aufgewachsen.
+Mein Name ist Sarah Diba Anissa. Ich bin in Jakarta, Indonesien geboren und in Bogor, Indonesien aufgewachsen. Mit 17 bin nach Deutschland gereist und habe Medizintechnik studiert. Nun bin ich in web development verliebt 🥰
 
 ## Mein Lieblingsessen 🍲
 * Nasi Goreng
