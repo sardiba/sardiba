@@ -1,9 +1,10 @@
-# Über Mich
+# Über Mich 💁🏻‍♀️
 
 ## Persönliche Daten
+HALLO! 👋🏽
 Mein Name ist Sarah Diba Anissa. Ich bin in Jakarta, Indonesien geboren und in Bogor, Indonesien aufgewachsen.
 
-## Mein Lieblingsessen
+## Mein Lieblingsessen 🍲
 * Nasi Goreng
 * Rendang
 * Pommes
