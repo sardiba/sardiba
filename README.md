@@ -18,7 +18,7 @@ Mein Name ist Sarah Diba Anissa. Ich bin in Jakarta, Indonesien geboren und in B
 ## Do's and Don'ts
 - [x] talk to me in english
 - [x] talk to me in german
-- [ ] ask me to watch horro film
+- [ ] ask me to watch horror film
 
 
 ## Meine Katze
