@@ -19,5 +19,5 @@ Mein Name ist Sarah Diba Anissa. Ich bin in Jakarta, Indonesien geboren und in B
 ## Meine Instagram-Seite
 [instagram link](https://www.instagram.com/sardibaa/?hl=de)
 > Mein Motto
-> _"You Only Live Once"_
+> _"if you know better, do better"_
 
